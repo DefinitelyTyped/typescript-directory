@@ -12,6 +12,10 @@ Tools
 * [play2-typescript](https://github.com/mumoshu/play2-typescript) TypeScript assets handling for Play 2.0
 * [typescript-interpret](https://github.com/niutech/typescript-interpret) Interpret TypeScript using the Console/Terminal Emulator in JavaScript
 
+Cloud support
+--------------
+*[Heroku Typescript buildpack](https://github.com/pk11/heroku-buildpack-typescript)
+
 IDEs With TypeScript Support
 ----------------------------
 * [TypeScript Playground](http://www.typescriptlang.org/Playground/)
@@ -22,6 +26,7 @@ IDE Tools
 ---------
 * [CATS](https://github.com/jbaron/cats) Code Assistant for TypeScript
 * [typescript-vim](https://github.com/leafgarland/typescript-vim)
+* [sublime-typescript](https://github.com/raph-amiard/sublime-typescript)
 
 Notable Projects Written In TypeScript
 --------------------------------------
