@@ -11,6 +11,7 @@ Tools
 * [typescript-rails](https://github.com/klaustopher/typescript-rails) An asset pipeline wrapper
 * [play2-typescript](https://github.com/mumoshu/play2-typescript) TypeScript assets handling for Play 2.0
 * [typescript-interpret](https://github.com/niutech/typescript-interpret) Interpret TypeScript using the Console/Terminal Emulator in JavaScript
+* [typescript-tools](https://github.com/clausreinke/typescript-tools) Misc tools related to the TypeScript language
 
 Cloud support
 --------------
