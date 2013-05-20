@@ -11,10 +11,11 @@ Tools
 * [typescript-rails](https://github.com/klaustopher/typescript-rails) An asset pipeline wrapper
 * [play2-typescript](https://github.com/mumoshu/play2-typescript) TypeScript assets handling for Play 2.0
 * [typescript-interpret](https://github.com/niutech/typescript-interpret) Interpret TypeScript using the Console/Terminal Emulator in JavaScript
-
+* [grunt-typescript](https://github.com/k-maru/grunt-typescript) Grunt.js plugin to compile TypeScript as part of your automated build process
+ 
 Cloud support
 --------------
-*[Heroku Typescript buildpack](https://github.com/pk11/heroku-buildpack-typescript)
+* [Heroku Typescript buildpack](https://github.com/pk11/heroku-buildpack-typescript)
 
 IDEs With TypeScript Support
 ----------------------------
