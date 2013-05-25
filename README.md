@@ -1,7 +1,8 @@
-TypeScript Directory
+http://www.featuremap.co/TypeScript Directory
 ====================
 
 [DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+
 
 Tools
 -----
@@ -12,15 +13,24 @@ Tools
 * [play2-typescript](https://github.com/mumoshu/play2-typescript) TypeScript assets handling for Play 2.0
 * [typescript-interpret](https://github.com/niutech/typescript-interpret) Interpret TypeScript using the Console/Terminal Emulator in JavaScript
 
+
+Libraries
+---------
+* [jRIAppTS](https://github.com/BBGONE/jRIAppTS) Typescript version of jRIApp HTML5 framework
+* [LeapMotionTS](https://github.com/logotype/LeapMotionTS) Leap Motion TypeScript API
+
 Cloud support
 --------------
-*[Heroku Typescript buildpack](https://github.com/pk11/heroku-buildpack-typescript)
+*[Heroku Typescript Buildpack](https://github.com/pk11/heroku-buildpack-typescript)
+
 
 IDEs With TypeScript Support
 ----------------------------
 * [TypeScript Playground](http://www.typescriptlang.org/Playground/)
+* [Visual Studio](http://www.microsoft.com/visualstudio/eng)
 * [WebStorm](http://www.jetbrains.com/webstorm/)
 * [WebEssentials](http://visualstudiogallery.msdn.microsoft.com/6ed4c78f-a23e-49ad-b5fd-369af0c2107f)
+
 
 IDE Tools
 ---------
@@ -29,18 +39,23 @@ IDE Tools
 * [sublime-typescript](https://github.com/raph-amiard/sublime-typescript)
 * [typescript-tools](https://github.com/clausreinke/typescript-tools) commandline access to TypeScript language services (types, completion, jump to definition, errors); Vim plugin
 
+
 Notable Projects Written In TypeScript
 --------------------------------------
+* [FeatureMap](http://www.featuremap.co/)
+* [Socl](http://www.so.cl/) Service where people connect over shared interests
 * [TypeScript Compiler](http://typescript.codeplex.com/) 
 * [TouchDevelop](https://www.touchdevelop.com/) Programming environment that runs on mobile devices
 * [TFS Web UI](http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
-* [Socl](http://www.so.cl/) Service where people connect over shared interests 
+* [Zudio](https://zud.io/)
 
 
 Learn
 -----
 * [TypeScript Discussions](http://typescript.codeplex.com/discussions) Official discussion forums for TypeScript
 * [TypeScript on StackOverflow](http://stackoverflow.com/questions/tagged/typescript)
+* [TypeScript on MSDN](http://blogs.msdn.com/b/typescript/)
+
 
 Books/Big Reads
 -------
@@ -62,12 +77,14 @@ Articles
 * [TypeScript Classes and Interfaces](http://www.johnpapa.net/typescriptpost3/)
 * [TypeScript Modules](http://www.johnpapa.net/typescriptpost/)
 
+
 Videos
 ------
 * [Anders Hejlsberg: Introducing TypeScript](http://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript)
 * [Anders Hejlsberg, Steve Lucco, and Luke Hoban: Inside TypeScript](http://channel9.msdn.com/posts/Anders-Hejlsberg-Steve-Lucco-and-Luke-Hoban-Inside-TypeScript)
 * [Anders Hejlsberg and Lars Bak: TypeScript, JavaScript, and Dart](http://channel9.msdn.com/Shows/Going+Deep/Anders-Hejlsberg-and-Lars-Bak-TypeScript-JavaScript-and-Dart)
 * [Intro to TypeScript with Chris Sells](http://www.worksessions.com/videos/G67ozf0dKT8)
+
 
 Courses
 -------
