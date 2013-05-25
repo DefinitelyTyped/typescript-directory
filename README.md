@@ -1,4 +1,4 @@
-http://www.featuremap.co/TypeScript Directory
+TypeScript Directory
 ====================
 
 [DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
@@ -23,7 +23,7 @@ Libraries
 
 Cloud support
 --------------
-*[Heroku Typescript Buildpack](https://github.com/pk11/heroku-buildpack-typescript)
+* [Heroku Typescript Buildpack](https://github.com/pk11/heroku-buildpack-typescript)
 
 
 IDEs With TypeScript Support
@@ -39,7 +39,7 @@ IDE Tools
 * [CATS](https://github.com/jbaron/cats) Code Assistant for TypeScript
 * [typescript-vim](https://github.com/leafgarland/typescript-vim)
 * [sublime-typescript](https://github.com/raph-amiard/sublime-typescript)
-* [typescript-tools](https://github.com/clausreinke/typescript-tools) commandline access to TypeScript language services (types, completion, jump to definition, errors); Vim plugin
+* [typescript-tools](https://github.com/clausreinke/typescript-tools) Command line access to TypeScript language services (types, completion, jump to definition, errors); Vim plugin
 
 
 Notable Projects Written In TypeScript
