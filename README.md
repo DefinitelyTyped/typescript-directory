@@ -16,8 +16,10 @@ Tools
 
 Libraries
 ---------
+* [grunt-typescript](https://github.com/k-maru/grunt-typescript) Grunt.js plugin to compile TypeScript as part of your automated build process
 * [jRIAppTS](https://github.com/BBGONE/jRIAppTS) Typescript version of jRIApp HTML5 framework
 * [LeapMotionTS](https://github.com/logotype/LeapMotionTS) Leap Motion TypeScript API
+
 
 Cloud support
 --------------
@@ -45,6 +47,7 @@ Notable Projects Written In TypeScript
 * [FeatureMap](http://www.featuremap.co/)
 * [Socl](http://www.so.cl/) Service where people connect over shared interests
 * [TypeScript Compiler](http://typescript.codeplex.com/) 
+* [Nouvosot](http://nouvosoft.com/) A SPA written entirely in typescript and uses responsive css to adapt to all layouts.
 * [TouchDevelop](https://www.touchdevelop.com/) Programming environment that runs on mobile devices
 * [TFS Web UI](http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 * [Zudio](https://zud.io/)
