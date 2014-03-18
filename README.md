@@ -33,7 +33,7 @@ IDEs With TypeScript Support
 * [Visual Studio](http://www.microsoft.com/visualstudio/eng)
 * [WebStorm](http://www.jetbrains.com/webstorm/)
 * [WebEssentials](http://visualstudiogallery.msdn.microsoft.com/6ed4c78f-a23e-49ad-b5fd-369af0c2107f)
-
+* [Eclipse](https://github.com/palantir/eclipse-typescript)
 
 IDE Tools
 ---------
